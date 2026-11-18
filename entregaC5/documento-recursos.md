@@ -2,13 +2,13 @@
 
 El moodboard de Gemelo IA combina verde menta y salvia, malva y ciruela. Busca transmitir calma, cercanía y confianza. Estas fotografías muestran organización cotidiana y tecnología en espacios de trabajo luminosos, con tonos naturales que encajan con esa identidad.
 
-## Fotografías
+## Créditos de las fotografías
 
-| Archivo | Fotografía | Autor/a | Licencia | Enlace original |
-|---|---|---|---|---|
-| [`recursos/foto-planificacion.jpg`](recursos/foto-planificacion.jpg) | Calendario de escritorio junto a libros; planificación y organización. | Yaqing Wei (`@yunwuwanzi`) | [Unsplash License](https://unsplash.com/license) — uso gratuito según la página de la foto. | [Página original en Unsplash](https://unsplash.com/photos/a-small-desk-calendar-sits-beside-a-stack-of-books-211NmLyOzYU) |
-| [`recursos/foto-trabajo-verde.jpg`](recursos/foto-trabajo-verde.jpg) | Persona trabajando cerca de una ventana con plantas. | Oksana Demenko (`@_kseniademenko`) | [Unsplash License](https://unsplash.com/license) — uso gratuito según la página de la foto. | [Página original en Unsplash](https://unsplash.com/photos/person-works-on-laptop-near-large-window-with-plants-gkzP5awCZAQ) |
-| [`recursos/foto-productividad.jpg`](recursos/foto-productividad.jpg) | Portátil con una página de perfil, junto a una planta y un cuaderno. | Gabre Cameron | [Unsplash License](https://unsplash.com/license) — uso gratuito según la página de la foto. | [Página original en Unsplash](https://unsplash.com/photos/laptop-displaying-a-profile-page-with-a-plant-CAAFsWZT9cY) |
+| Autor/a | Tipo de licencia | Enlace original |
+|---|---|---|
+| Yaqing Wei (`@yunwuwanzi`) | [Unsplash License](https://unsplash.com/license) | [Foto del calendario](https://unsplash.com/photos/a-small-desk-calendar-sits-beside-a-stack-of-books-211NmLyOzYU) |
+| Oksana Demenko (`@_kseniademenko`) | [Unsplash License](https://unsplash.com/license) | [Foto de trabajo junto a plantas](https://unsplash.com/photos/person-works-on-laptop-near-large-window-with-plants-gkzP5awCZAQ) |
+| Gabre Cameron | [Unsplash License](https://unsplash.com/license) | [Foto del portátil con una planta](https://unsplash.com/photos/laptop-displaying-a-profile-page-with-a-plant-CAAFsWZT9cY) |
 
 ## Icono para la marca
 
