@@ -1,7 +1,5 @@
 # Actividad C5 — Recursos visuales de Gemelo IA
 
-El moodboard de Gemelo IA combina verde menta y salvia, malva y ciruela. Busca transmitir calma, cercanía y confianza. Estas fotografías muestran organización cotidiana y tecnología en espacios de trabajo luminosos, con tonos naturales que encajan con esa identidad.
-
 ## Créditos de las fotografías
 
 | Autor/a | Tipo de licencia | Enlace original |
