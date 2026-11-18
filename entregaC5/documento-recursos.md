@@ -2,11 +2,11 @@
 
 ## Créditos de las fotografías
 
-| Autor/a | Tipo de licencia | Enlace original |
-|---|---|---|
-| Yaqing Wei (`@yunwuwanzi`) | [Unsplash License](https://unsplash.com/license) | [Foto del calendario](https://unsplash.com/photos/a-small-desk-calendar-sits-beside-a-stack-of-books-211NmLyOzYU) |
-| Oksana Demenko (`@_kseniademenko`) | [Unsplash License](https://unsplash.com/license) | [Foto de trabajo junto a plantas](https://unsplash.com/photos/person-works-on-laptop-near-large-window-with-plants-gkzP5awCZAQ) |
-| Gabre Cameron | [Unsplash License](https://unsplash.com/license) | [Foto del portátil con una planta](https://unsplash.com/photos/laptop-displaying-a-profile-page-with-a-plant-CAAFsWZT9cY) |
+| Imagen | Autor/a | Tipo de licencia | Enlace original |
+|---|---|---|---|
+| [`foto-planificacion.jpg`](recursos/foto-planificacion.jpg) | Yaqing Wei (`@yunwuwanzi`) | [Unsplash License](https://unsplash.com/license) | [Foto del calendario](https://unsplash.com/photos/a-small-desk-calendar-sits-beside-a-stack-of-books-211NmLyOzYU) |
+| [`foto-trabajo-verde.jpg`](recursos/foto-trabajo-verde.jpg) | Oksana Demenko (`@_kseniademenko`) | [Unsplash License](https://unsplash.com/license) | [Foto de trabajo junto a plantas](https://unsplash.com/photos/person-works-on-laptop-near-large-window-with-plants-gkzP5awCZAQ) |
+| [`foto-productividad.jpg`](recursos/foto-productividad.jpg) | Gabre Cameron | [Unsplash License](https://unsplash.com/license) | [Foto del portátil con una planta](https://unsplash.com/photos/laptop-displaying-a-profile-page-with-a-plant-CAAFsWZT9cY) |
 
 ## Icono para la marca
 
