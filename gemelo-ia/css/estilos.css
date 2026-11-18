@@ -172,11 +172,20 @@ a {
   right: 10px;
   bottom: 10px;
   left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
   margin: 0;
   padding: 6px 10px;
   background-color: var(--ciruela);
   color: var(--blanco);
-  text-align: center;
+  font-size: 12px;
+}
+
+.leyenda-figura a {
+  color: var(--verde-menta);
+  white-space: nowrap;
 }
 
 .como-funciona {
@@ -384,6 +393,12 @@ article.paso:hover {
 
   .imagen-portada {
     height: 180px;
+  }
+
+  .leyenda-figura {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 2px;
   }
 
 
